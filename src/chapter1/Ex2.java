@@ -29,9 +29,18 @@ public class Ex2 {
 	
 //	System.out.println("abcd");
 		
-	System.out.println("오늘의 기온 :" +-5.3 + "c");
-	System.out.println("커피 가격 :" +1500);
-	System.out.println("오늘의 기온 :" +-5.3 + "c");
+//ystem.out.println("오늘의 기온 :" +-5.3 + "c");
+//ystem.out.println("커피 가격 :" +1500);
+//ystem.out.println("오늘의 기온 :" +-5.3 + "c");
+	
+	char value;
+	
+	int number;
+	
+	double data;
+	
+	boolean val1;
+			
 	
 	
 	
