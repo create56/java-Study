@@ -9,13 +9,13 @@ public class Ex2 {
 //	System.out.println("Hello");
 //	System.out.println("World~!");
 		
-// ystem.out.println("I am");
-// ystem.out.println("a");
-// ystem.out.println("java Programmer");
+//  System.out.println("I am");
+//  System.out.println("a");
+//  System.out.println("java Programmer");
 	
-// ystem.out.print("오늘은");
-// ystem.out.print("자바 수업");
-// ystem.out.print("첫번쨰 날입니다");
+//  System.out.print("오늘은");
+//  System.out.print("자바 수업");
+//  System.out.print("첫번쨰 날입니다");
 	
 //	System.out.print("I am ");
 //	System.out.print("a ");
@@ -29,17 +29,27 @@ public class Ex2 {
 	
 //	System.out.println("abcd");
 		
-//ystem.out.println("오늘의 기온 :" +-5.3 + "c");
-//ystem.out.println("커피 가격 :" +1500);
-//ystem.out.println("오늘의 기온 :" +-5.3 + "c");
+// System.out.println("오늘의 기온 :" +-5.3 + "c");
+// System.out.println("커피 가격 :" +1500);
+// System.out.println("오늘의 기온 :" +-5.3 + "c");
 	
 	char value;
+	value = 'A';
 	
 	int number;
+	number = 10;
 	
 	double data;
+	data = -17.1;
 	
-	boolean val1;
+	boolean  val1;
+	val1 = true;
+	
+	
+
+	
+	
+	
 			
 	
 	
