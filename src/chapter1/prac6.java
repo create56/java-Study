@@ -14,6 +14,9 @@ public class prac6 {
 		int num1 = 31; 
 			num1 ++;
 		System.out.println(num1);
+		
+		int add = 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10;
+		System.out.println(add);
 	}
 
 }
