@@ -8,7 +8,7 @@ public class Ex3 {
 	public static void main(String[] args) {
 		Scanner scanf = new Scanner(System.in); 
 		int[] korArr = new int[] { 84,96,52,42};
-		int[] korArr = new int[4];
+		int[] korArr1 = new int[4];
 		korArr[0] = 88;
 		
 		System.out.println(Arrays.toString(korArr));
