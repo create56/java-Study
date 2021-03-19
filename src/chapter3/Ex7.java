@@ -1,0 +1,24 @@
+package chapter3;
+
+import java.util.Scanner;
+
+public class Ex7 {
+
+	public static void main(String[] args) {
+		Scanner scanf = new Scanner(System.in);
+		
+		String a = "+";
+		
+		String b = scanf.next();
+		
+		System.out.println("a = " + a);
+		System.out.println("b = " + b);
+		
+		if (a.equals(b)) {
+			System.out.println("a와 b는 같습니다"); 
+		} else {
+			System.out.println("a와 b는 다릅니다");
+		}
+	}
+
+}

@@ -43,8 +43,9 @@ public class Ex14 {
 		// 인스턴스에 데이터를 저장
 		// 저장된 데이터를 출력
 		
-		//예제 Ex13클래스의 인스턴스를 만들고 ex13 객체에 저장하세요
-		// Ex13를 위한 이름인데 Ex12이라는 이름을 만들어서 저장하면 안된다
+		//예제 Ex13클래스의 인스턴스를 만들고 ex13 객체에 저장하세요.
+		// Ex13를 위한 이름인데 Ex12이라는 이름을 만들어서 저장하면 안된다.
+		// 클래스 맴버 변수를 사용할떄는 조심히 사용해야한다.(기준이 되는 값)
 		Ex13 ex13 = new Ex13();
 	
 		//예제 chulsu 객체를 만들고 Student 클래스의 인스턴스를 저장하세요
@@ -58,7 +59,7 @@ public class Ex14 {
 		// 예제 Student 클래스의 인스턴스를 만들고 student객체에 저장하세요
 		Student student = new Student();
 		
-		// 기본값이 출력된다
+		// 기본값이 출력된다 
 		System.out.println(student.name);
 		System.out.println(student.age);
 	}
