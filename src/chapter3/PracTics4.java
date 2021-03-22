@@ -5,10 +5,10 @@ public class PracTics4 {
 	public static void main(String[] args) {
 		
 		int year = 1992;
-		int age = 2021- year;
+		int age = PracTics4.nowYear-year;
 		
-		if (age >= 19) {
-			System.out.println("미취학 유아동입니다");
+		if (age >= 20) {
+			System.out.println("성인입니다");
 		} else if (8 <= age && age <= 13) {
 			System.out.println("초등학생입니다");
 		} else if (14 <= age && age <= 17) {

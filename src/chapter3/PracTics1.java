@@ -11,7 +11,7 @@ public class PracTics1 {
 			System.out.println("저체중");
 		}
 		
-		if (BMI >= 25 && ) {
+		if (BMI >= 25 && BMI <= 27 ) {
 			System.out.println("정상");
 		}
 
