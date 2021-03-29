@@ -11,6 +11,32 @@ public class Person extends Animal {
 		
 	}
 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	+- -----------------------------------
 	@Override
 	public void findfood() {
 		// TODO Auto-generated method stub

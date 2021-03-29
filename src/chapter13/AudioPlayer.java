@@ -6,6 +6,18 @@ package chapter13;
 // 추상 메서드를 반드시 구현햐여한다
 public class AudioPlayer extends Player {
 
+	@Override
+	public void play(int pos) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void stop() {
+		// TODO Auto-generated method stub
+		
+	}
+
 
 
 

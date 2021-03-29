@@ -2,7 +2,8 @@ package chapter13;
 
 public abstract class Animal {
 	private String name;
-	// 배고픔 정돔(0:매우배고품 , 10 배부름)
+	private String hungry;
+	// 배고픔 정도(0:매우배고품 , 10 배부름)
 	
 	public Animal() {
 		this("animal");
@@ -30,9 +31,11 @@ public abstract class Animal {
 	// 동물들 마다 음식을 먹는 방식을 다 다르므로 eatfood매서드는 추상메서드로 선언
 	public void eat() {
 		if (hungry <= 5) {
+			findfood();
 			// 음식을 찾는다
 			
 			// 음식을 먹는다
+			System.out.println("음식을 먹습니다");
 		}
 	}
 }
